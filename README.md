@@ -4,7 +4,6 @@
  
  🌱 Currently learning: JavaScript, REST, Angular 
 
- ✨ Learned: Java, SQL, Spring, JPA, HTML, CSS 
 
 
 ## Languages 
