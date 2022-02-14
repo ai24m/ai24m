@@ -2,7 +2,7 @@
 
  💕 Full-Stack Developer
  
- 🌱 Currently working with: Go 
+ 🌱 Currently working with: Go and Kotlin! 
 
 
 
