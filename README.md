@@ -2,7 +2,7 @@
 
  💕 Full-Stack Developer
  
- 🌱 Currently learning: Go and Kotlin! 
+ 🌱 Currently learning: Go, ReactJS
 
 
 
